@@ -6,7 +6,7 @@ Blender3D Countdown Script
 
 This script allows for the creation of animated countdowns using Blender's Text object.  The script uses Blender3D's animation length and framerate setting to generate a countdown.
 
-This script only works with pre 2.5 versions of blender.  There are alternatives for newer versions of Blender.
+This script only works with pre 2.5 versions of blender.  Odds are there are alternatives for newer versions of Blender.
 
 
 <b>Features</b>
