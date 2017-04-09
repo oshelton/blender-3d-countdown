@@ -8,7 +8,7 @@ This script allows for the creation of animated countdowns using Blender's Text 
 
 This script only works with pre 2.5 versions of blender.  Odds are there are alternatives for newer versions of Blender.
 
-![](countdown.jpg =800x)
+![](countdown.jpg)
 
 <b>Features</b>
 
