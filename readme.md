@@ -1,6 +1,9 @@
 Jack "Owen" Shelton
 Blender3D Countdown Script
 
+# Archived
+
+This is for an ancient version of Blender that nobody should really be using anymore.
 
 # Intro
 
